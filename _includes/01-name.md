@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+## Hello and Welcome to my Profile
+### Created by Christie
